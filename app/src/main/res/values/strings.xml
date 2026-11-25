@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wardriver</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="stop_scanning">Stop Scanning</string>
+    <string name="status_stopped">Status: Idle</string>
+    <string name="status_scanning">Status: Scanning for Wi-Fi networks...</string>
+    <string name="gps_waiting">GPS: Acquiring fix...</string>
+    <string name="ap_count_fmt">Discovered APs: %1$d</string>
+    <string name="export_csv">Export CSV</string>
+</resources>
